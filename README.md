@@ -1,0 +1,2 @@
+# image.auto
+OB-image
